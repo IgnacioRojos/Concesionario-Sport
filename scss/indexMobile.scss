@@ -1,0 +1,61 @@
+@media only screen and (max-width: 780px){
+    body{
+        overflow-x: hidden;
+    }
+    .imgAuto{
+        width: 105px;
+    }
+    
+    .imgRemolque{
+        width: 320px;
+        margin-left: 0px;
+    }
+    
+    .buscador{
+        margin-top: 0px;
+              
+    }
+    
+    .textoConBotones{
+        margin-top: 60px;
+    }
+    
+    .botonComprar{
+        margin-bottom: 20px;
+        margin-left: 10px;
+    }
+    .botonVender{
+        margin-left: 10px;
+    }
+    
+    .texto{
+        font-size: 15px;
+        width: 340px;
+
+    }
+    
+    .tarjetaCarrusel{
+        margin-left: 0px;
+       
+    }
+    .card{
+        width: 200px;
+        margin-left: 75px;
+    }
+    
+    .flecha{
+        background-color: black;
+    
+    }
+    .tituloCarrusel{
+        margin-left: 0px;
+    }
+    div{
+        h2{
+            font-size: 15px;
+            padding-left: 20px;
+        }
+    }
+
+   
+}  

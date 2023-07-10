@@ -1,0 +1,287 @@
+body {
+  overflow-x: hidden; }
+
+.navBarNav {
+  padding-left: 990px; }
+
+.card {
+  width: 400px;
+  margin-top: 120px; }
+
+.perfilFoto {
+  width: 300px;
+  padding-left: 100px; }
+
+.botonesMarca {
+  padding-left: 690px; }
+
+.buscador {
+  margin-top: 60px; }
+
+.cajaCheck {
+  padding-left: 50px; }
+
+.marcaCaja {
+  padding-left: 50px; }
+
+.anios {
+  width: 90px;
+  padding-left: 120px; }
+
+.marcas {
+  padding-top: 50px;
+  width: 200px; }
+
+.botonSiguiente {
+  margin-top: 80px;
+  width: 100px;
+  margin-right: 200px; }
+
+.linksFooter {
+  margin-top: 55px; }
+
+.linksFooter2 {
+  margin-top: 55px; }
+
+div a {
+  text-decoration: none; }
+
+body {
+  overflow-x: hidden; }
+
+.imgRemolque {
+  margin-left: 90px; }
+
+.buscador {
+  margin-top: 60px; }
+
+.textoConBotones {
+  margin-top: 60px; }
+
+.botonComprar {
+  margin-bottom: 20px;
+  margin-left: 10px; }
+
+.botonVender {
+  margin-left: 10px; }
+
+.texto {
+  margin-left: 10px; }
+
+.tarjetaCarrusel {
+  margin-left: 540px; }
+
+.flecha {
+  background-color: black; }
+
+.tituloCarrusel {
+  margin-left: 410px; }
+
+.tituloConBoton {
+  margin-top: 150px; }
+
+.botonVer {
+  margin-left: 200px; }
+
+.tituloCompra {
+  margin-left: 20px; }
+
+.tarjetaAutito {
+  margin-left: 20px; }
+
+.autitoImg {
+  width: 180px;
+  margin-left: 50px; }
+
+.tarjetaCelu {
+  width: 319px; }
+
+.tarjetaCarrusel {
+  margin-left: 740px; }
+
+.flecha {
+  background-color: black; }
+
+.botonFooter {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  margin-left: 500px; }
+
+.imgConcesionaria {
+  width: 540px; }
+
+.cajaConMenuDesplegable {
+  padding-left: 50px; }
+
+.tituloConcesionario {
+  margin-left: 350px;
+  margin-top: 50px; }
+
+.tarjetasService {
+  margin-left: 201px; }
+
+.tituloCentroService {
+  margin-left: 350px;
+  margin-top: 50px; }
+
+.tarjetasService2 {
+  margin-left: 440px; }
+
+.imgMecanico {
+  width: 500px;
+  margin-left: 260px; }
+
+.tarjetasService {
+  margin-left: 201px; }
+
+.imgHidraulica {
+  width: 350px;
+  margin-left: 100px; }
+
+.cajaTituloBoton {
+  padding-left: 50px; }
+
+.imgMecanico {
+  width: 430px;
+  margin-left: 75px; }
+
+.cajaFotoTexto {
+  margin-top: 50px; }
+
+.tituloPreguntas {
+  margin-top: 50px;
+  margin-left: 380px;
+  margin-bottom: 50px; }
+
+@media only screen and (max-width: 780px) {
+  body {
+    overflow-x: hidden; }
+  .imgAuto {
+    width: 105px; }
+  .imgRemolque {
+    width: 320px;
+    margin-left: 0px; }
+  .buscador {
+    margin-top: 0px; }
+  .textoConBotones {
+    margin-top: 60px; }
+  .botonComprar {
+    margin-bottom: 20px;
+    margin-left: 10px; }
+  .botonVender {
+    margin-left: 10px; }
+  .texto {
+    font-size: 15px;
+    width: 340px; }
+  .tarjetaCarrusel {
+    margin-left: 0px; }
+  .card {
+    width: 200px;
+    margin-left: 75px; }
+  .flecha {
+    background-color: black; }
+  .tituloCarrusel {
+    margin-left: 0px; }
+  div h2 {
+    font-size: 15px;
+    padding-left: 20px; } }
+
+@media only screen and (max-width: 768px) {
+  .linksFooter {
+    margin-top: 20px;
+    font-size: 13px; }
+  .linksFooter2 {
+    margin-top: 20px;
+    font-size: 13px; }
+  div a {
+    text-decoration: none; }
+  .imgFooter {
+    width: 120px; } }
+
+@media only screen and (max-width: 768px) {
+  body {
+    overflow-x: hidden; }
+  .card {
+    width: 160px;
+    margin-top: 90px;
+    margin-left: 29px; }
+  .perfilFoto {
+    width: 100px;
+    padding-left: 0px; }
+  .botonesMarca {
+    padding-left: 45px; }
+  .botonMarca {
+    width: 150px;
+    margin-bottom: 10px;
+    margin-left: 14px; }
+  .botonJeep {
+    margin-left: 95px; } }
+
+@media only screen and (max-width: 768px) {
+  body {
+    overflow-x: hidden; }
+  .tituloConBoton {
+    margin-top: 60px; }
+  div a button {
+    margin-top: 20px;
+    margin-left: 20px; }
+  .botonVer {
+    margin-left: 0px; }
+  .imgRemolquee {
+    width: 170px;
+    height: 238px; }
+  .tituloCompra {
+    margin-left: 0px; }
+  .tarjetaAutito {
+    margin-left: 0px;
+    width: 125px; }
+  .autitoImg {
+    width: 10px; }
+  .tarjetaaa {
+    margin-left: 0px; }
+  .tarjetaCelu {
+    width: 125px; }
+  .tarjetaCarrusel {
+    margin-left: 30px; }
+  .flecha {
+    background-color: black; }
+  .botonFooter {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 0px; } }
+
+@media only screen and (max-width: 768px) {
+  .imgConcesionaria {
+    width: 181px; }
+  .cajaConMenuDesplegable {
+    padding-left: 20px; }
+  .tituloConcesionario {
+    margin-left: 0px;
+    margin-top: 50px; }
+  .tarjetasService {
+    margin-left: 0px; }
+  .tituloCentroService {
+    margin-left: 0px;
+    margin-top: 50px; }
+  .tarjetasService2 {
+    margin-left: 0px; }
+  .titulitoConse {
+    font-size: 23px; }
+  .titulitoInspec {
+    font-size: 23px; } }
+
+@media only screen and (max-width: 768px) {
+  .imgMecanico {
+    width: 200px;
+    margin-left: 50px; }
+  .tarjetasService {
+    margin-left: 0px; }
+  .testimoniales {
+    padding-left: 23px; } }
+
+@media only screen and (max-width: 768px) {
+  .cajaCheck {
+    padding-left: 0px; }
+  .anios {
+    width: 90px;
+    padding-left: 41px; } }

@@ -1,0 +1,31 @@
+@media only screen and(max-width: 768px){
+    body{
+        overflow-x: hidden;
+    }
+    
+    .card{
+        width: 160px;
+        margin-top: 90px;
+        margin-left: 29px;
+    }
+    
+    
+    .perfilFoto{
+        width: 100px;
+        padding-left: 0px;
+    }
+    
+    .botonesMarca{
+        padding-left: 45px;
+    }
+
+    .botonMarca{
+        width: 150px;
+        margin-bottom: 10px;
+        margin-left: 14px;
+    }
+
+    .botonJeep{
+        margin-left: 95px;
+    }
+}

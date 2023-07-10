@@ -1,0 +1,21 @@
+[
+    {"img": "../assets/img/fiat punto.jpg","titulo":"fiat punto","cantidad":1, "marca":"fiat", "id": 1, "descripcion":"Motor y transmisión: Cilindrada 1.368 N° de cilindros y disposición 4 en linea Potencia máxima (CV/rpm) 85 / 5.750" },
+    {"img": "../assets/img/vento.jpg","titulo": "Wolsvagen Vento","cantidad":1, "marca": "wolsvagen", "id": 2, "descripcion":"Motor y transmisión: Cilindrada 1984 N° de cilindros y disposición 4 Potencia máxima (CV/rpm) 211"},
+    {"img": "../assets/img/bora.jpg","titulo": "Wolsvagen Bora","cantidad":1,"marca":"wolsvagen", "id": 3,"descripcion":"Motor y transmisión: Cilindrada 1.781 N° de cilindros Valvulas 4 20V Potencia 180 CV " },
+    {"img": "../assets/img/chevrolet corsa.jpg","titulo":"Chevrolet Corsa","cantidad":1,"marca":"chevrolet", "id": 4,"descripcion":"Motor y transmisión: Cilindrada 1.389 Número de Cilindros: 4 Potencia Máxima (CV): 60" },
+    {"img": "../assets/img/ford fiesta.jpg","titulo": "Ford Fiesta","cantidad":1,"marca":"ford", "id": 5,"descripcion":"Motor y transmisión: Cilindrada: 1.596 Número de Cilindros: 4 Potencia Máxima (CV): 120" },
+    {"img": "../assets/img/wolsvagen up.jpg","titulo": "wolsvagen up","cantidad":1,"marca":"wolsvagen", "id": 6,"descripcion":"Motor y transmisión: Cilindrada: 999 Número de cilindros: 3 Potencia máxima: 75 CV" },
+    {"img":"../assets/img/ford ka.jpg","titulo":"Ford Ka","cantidad":1,"marca":"ford", "id": 7,"descripcion":"Motor y transmisión: Cilindrada: 1.499 c.c. Número de Cilindros: 3 Potencia Máxima (CV): 123 CV" },
+    {"img":"../assets/img/fiat siena.jpg","titulo":"Fiat Siena","cantidad":1,"marca":"fiat", "id":8,"descripcion": "Motor y transmisión: Cilindrada: 1598 c.c. Número de Cilindros: 4 Potencia máxima (CV): 115 "},
+    {"img":"../assets/img/yaris.jpg","titulo":"Toyota Yaris","cantidad":1,"marca":"toyota", "id":9,"descripcion":"Motor y transmisión:  Cilindrada: 1496 c.c. Número de Cilindros: 4 Potencia máxima (CV): 107" },
+    {"img":"../assets/img/toyota hilux.jpg","titulo":"Toyota Hilux","cantidad":1, "marca":"toyota", "id":10,"descripcion":"Motor y transmisión:  Cilindrada: 2.755 c.c. Número de Cilindros: 4 Potencia máxima (CV): 177" },
+    {"img":"../assets/img/ford raptor.jpg","titulo":"Ford Raptor","cantidad":1,"marca":"ford", "id": 11,"descripcion":"Motor y transmisión: Cilindrada:3.500 c.c. Número de Cilindros: 6 Potencia máxima (CV):456 " },
+    {"img":"../assets/img/fiat cronos.webp","titulo":"Fiat Cronos","cantidad":1,"marca":"fiat", "id":12,"descripcion":"Motor y transmisión: Cilindrada:1.332 c.c. Número de Cilindros: 4 Potencia máxima (CV): 99 " },
+    {"img":"../assets/img/gol trend.jpg","titulo":"Wolsvagen Gol Trend","cantidad":1,"marca":"wolsvagen", "id":13,"descripcion":"Motor y transmisión: Cilindrada: 1.599 c.c. Número de Cilindros: 4 Potencia máxima (CV): 101" },
+    {"img":"../assets/img/polo trend.jpg","titulo": "Wolsvagen Polo Trend","cantidad":1,"marca":"wolsvagen", "id":14,"descripcion":"Motor y transmisión: Cilindrada: 1.589 c.c. Número de Cilindros: 4 Potencia máxima (CV): 110" },
+    {"img":"../assets/img/cruze.jpg","titulo":"Chevrolet Cruze","cantidad":1,"marca":"chevrolet", "id":15,"descripcion":"Motor y transmisión: Cilindrada: 1399 c.c. Número de Cilindros: 4 Potencia máxima (CV): 153" },
+    {"img":"../assets/img/fiat mobi.jpg","titulo":"Fiat Mobi","cantidad":1,"marca":"fiat", "id":16,"descripcion":"Motor y transmisión: Cilindrada: 999 c.c. Número de Cilindros: 4 Potencia máxima (CV): 70" },
+    {"img":"../assets/img/focus.jpg","titulo":"Ford Focus","cantidad":1,"marca":"ford", "id":17,"descripcion":"Motor y transmisión: Cilindrada: 1599 c.c. Número de Cilindros: 4 Potencia máxima (CV): 125" },
+    {"img":"../assets/img/jeep.jpg","titulo":"Jeep raneger","cantidad":1,"marca":"jeep", "id":18,"descripcion": "Motor y transmisión:  Cilindrada: 3605 c.c. Número de Cilindros: 4 Potencia máxima (CV): 286"}
+
+]
